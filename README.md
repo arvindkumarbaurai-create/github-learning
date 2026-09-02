@@ -12,7 +12,7 @@ This project integrates CRM APIs with our application.
 - Customer Status API
 
 ## Customer Profile API
-Change2
+Change2 Customer profile
 The Customer profile API retrieves the current profile of a customer using MSISDN.
 Example:
 GET /customer/profile
