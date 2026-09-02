@@ -13,7 +13,7 @@ This project integrates CRM APIs with our application.
 
 
 Customer Profile API
-The Customer Balance API retrieves the current balance of a customer using MSISDN.
+The Customer Balance API retrieves the current profile of a customer using MSISDN.
 
 Example:
 
