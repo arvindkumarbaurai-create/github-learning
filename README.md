@@ -19,3 +19,4 @@ GET /customer/profile
 Customer Profile API The Customer status API retrieves the current profile of a customer using MSISDN.
 Example:
 GET /customer/profile
+- 
