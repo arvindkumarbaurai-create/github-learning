@@ -11,6 +11,12 @@ This project integrates CRM APIs with our application.
 - Customer Balance API
 - Customer Status API
 
-Customer balance API
-Change2 The Customer balance API retrieves the current balance of a customer using MSISDN. 
-Example: GET /customer/profile Customer balance API The Customer status API retrieves the current profile of a customer using MSISDN. Example: GET /customer/balance
+## Customer recharge API
+Change3
+
+The Customer recharge API retrieves the current balance of a customer using MSISDN.
+Example:
+GET /customer/balance
+Customer recharge API The Customer status API retrieves the current recharge of a customer using MSISDN.
+Example:
+GET /customer/recharge
